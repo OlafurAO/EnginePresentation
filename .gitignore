@@ -59,7 +59,11 @@ Intermediate/*
 DerivedDataCache/*
  
 ThirdParty/*
-Content/*
+#Content/*
+Content/ParagonLtBelica/*
+Content/Developers/*
+Content/Collections/*
+Content/StarterContent/*
  
 # Mac Artifacts
 .DS_Store
