@@ -6599,3 +6599,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.12-11.57.34:334][727]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B37C44906-427F-9C42-5174-7F9049422ED6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=b192ea1149838abdd27906a676f054c5%7C67f0d9e5d3de429692ce137d89ea6cf4%7C2b8a95c0-13bc-4c8c-bb4a-4ff55a2888a9&AppEnvironment=datacollector-binary&UploadType=eteventstream
 [2020.02.12-11.57.35:458][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
 [2020.02.12-11.57.35:458][729]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.028
+[2020.02.12-12.01.54:066][338]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{da4eac5a-fce2-459b-83f1-dce8ad504bb0}.
+[2020.02.12-12.01.54:066][338]LogTemp: Resetting audio stream to device id 
+[2020.02.12-12.01.54:138][338]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.12-12.01.54:138][338]LogAudioMixer: Display: Name: Speakers (ASUS ROG Spitfire)
+[2020.02.12-12.01.54:138][338]LogAudioMixer: Display: Is Default: Yes
+[2020.02.12-12.01.54:138][338]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.12-12.01.54:138][338]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.12-12.01.54:138][338]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.12-12.01.54:138][338]LogAudioMixer: Display: Channel Order:
+[2020.02.12-12.01.54:138][338]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.12-12.01.54:138][338]LogAudioMixer: Display: 1: FrontRight
