@@ -2286,3 +2286,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.12-18.35.54:120][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/incrementPathNext]
 [2020.02.12-18.35.54:134][995]LogSavePackage: Moving 'C:/Users/StefanUnreal/Desktop/GEDE/EnginePresentation/Saved/incrementPathNext_Auto523DF1CAA40326F7584C7428E0306E6F0.tmp' to 'C:/Users/StefanUnreal/Desktop/GEDE/EnginePresentation/Saved/Autosaves/Game/Blueprints/AI/incrementPathNext_Auto5.uasset'
 [2020.02.12-18.35.54:135][995]LogFileHelpers: Auto-saving content packages took 0.097
+[2020.02.12-18.46.41:457][269]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.12-18.46.41:457][269]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
